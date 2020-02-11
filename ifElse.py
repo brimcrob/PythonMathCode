@@ -10,4 +10,4 @@ elif check == "Yo":
 
 
 else:
-    print("It is True")
+    print("It is very True")
